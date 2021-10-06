@@ -1,9 +1,11 @@
+ 
+ 
   .heading
   {
     width: 100%;
     margin: 0px;
     box-shadow:5px 5px 5px grey;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'WaltographRegular';
    font-weight: normal;
    font-style: normal;
@@ -16,16 +18,16 @@
     box-shadow:5px 5px 5px grey;
     float:none;
     padding: 10px;
-    font-size: 25px;
+    font-size: 20px;
   }
   .heading_div2
   {
-    font-size: 20px ;
+    font-size: 15px ;
   }
   .result_para_tag
   {
     box-shadow:5px 5px 5px grey;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Ephesis', cursive;
  
   }
@@ -46,7 +48,9 @@
    border: 5px solid darkblue;
    border-radius: 20px;
    box-shadow: 5px 5px 5px blue;
-   margin-top: 270px;
+   margin-top: 160px;
+   margin-bottom:200px;
  }
-
  
+ 
+
